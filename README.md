@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sourabh-burnwal
-- 👀 I’m interested in Data Science, Machine Learning, specifically Computer Vision
-- 🌱 I’m currently learning Traditional ML, and GANs
-- 💞️ I’m looking to collaborate on exciting Data Science projects
+- 👀 Interested in Data Science, Machine Learning, specifically Computer Vision
+- 🌱 Currently learning Data Engineering, and MLOps
+- 💞️ Looking to collaborate on exciting Computer Vision projects
 - 📫 How to reach me: ping me on LinkedIn
 
 <!---
