@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sourabh-burnwal
-- 👀 Interested in MLOps, Infrastructure, and Computer Vision
+- 👋 Hi, I’m Sourabh
+- 👀 Interested in MLOps, Infrastructure, and LLMs
 - 🌱 Currently working in MLOps
 - 💞️ Looking to collaborate on exciting MLOps projects
 - 📫 How to reach me: ping me on LinkedIn
